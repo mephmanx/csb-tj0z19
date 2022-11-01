@@ -5,15 +5,15 @@
     "main.js.map": "https://mephmanx.github.io/csb-tj0z19/static/js/main.65ffe4b5.chunk.js.map",
     "runtime-main.js": "https://mephmanx.github.io/csb-tj0z19/static/js/runtime-main.c12675d7.js",
     "runtime-main.js.map": "https://mephmanx.github.io/csb-tj0z19/static/js/runtime-main.c12675d7.js.map",
-    "static/js/2.9750e669.chunk.js": "https://mephmanx.github.io/csb-tj0z19/static/js/2.9750e669.chunk.js",
-    "static/js/2.9750e669.chunk.js.map": "https://mephmanx.github.io/csb-tj0z19/static/js/2.9750e669.chunk.js.map",
+    "static/js/2.1c79887c.chunk.js": "https://mephmanx.github.io/csb-tj0z19/static/js/2.1c79887c.chunk.js",
+    "static/js/2.1c79887c.chunk.js.map": "https://mephmanx.github.io/csb-tj0z19/static/js/2.1c79887c.chunk.js.map",
     "index.html": "https://mephmanx.github.io/csb-tj0z19/index.html",
     "static/css/main.1aeeedfa.chunk.css.map": "https://mephmanx.github.io/csb-tj0z19/static/css/main.1aeeedfa.chunk.css.map",
-    "static/js/2.9750e669.chunk.js.LICENSE.txt": "https://mephmanx.github.io/csb-tj0z19/static/js/2.9750e669.chunk.js.LICENSE.txt"
+    "static/js/2.1c79887c.chunk.js.LICENSE.txt": "https://mephmanx.github.io/csb-tj0z19/static/js/2.1c79887c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c12675d7.js",
-    "static/js/2.9750e669.chunk.js",
+    "static/js/2.1c79887c.chunk.js",
     "static/css/main.1aeeedfa.chunk.css",
     "static/js/main.65ffe4b5.chunk.js"
   ]
